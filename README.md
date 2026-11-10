@@ -86,5 +86,12 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
+## 👥 Contributors
+
+- **Shiva** ([@Shiva45t](https://github.com/Shiva45t))
+- **Apoorva** ([@Apoorva-Pattnaik](https://github.com/Apoorva-Pattnaik))
+
+---
+
 ## 📄 License
 MIT License.
